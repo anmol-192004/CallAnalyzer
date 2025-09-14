@@ -7,7 +7,7 @@ A C++ terminal-based tool that analyzes call logs and shows the most talked cont
 
 ### Features
 
-- Input: `calls.csv` file with format:  
+- Input: `calls.csv` file, SQL files with format:  
   `YYYY-MM-DD HH:MM:SS,ContactName,DurationInSeconds`
 
 - Outputs:
